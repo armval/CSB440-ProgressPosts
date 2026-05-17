@@ -8,6 +8,8 @@ Here's a brief demo of the current state:
 
 https://github.com/user-attachments/assets/0068e455-36aa-4d71-aede-62e962e503ff
 
+Subsequent work involves incorporating a checkout process (view cart and checkout, likely simulating transactions w/ stripe test mode), and proper profile management (like admins for editing inventory).
+
 ## My Role
 
 I serve as the Tech Lead on a team of three developers (Jay, Tinisha, and myself) and one/two business consultants from the business cohort. My responsibilities include making architectural decisions, setting up the development infrastructure, implementing core features, and ensuring code quality through testing. I also coordinate with teammates on component assignments.
