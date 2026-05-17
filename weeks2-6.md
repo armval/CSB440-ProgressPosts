@@ -12,7 +12,7 @@ Subsequent work involves incorporating a checkout process (view cart and checkou
 
 ## My Role
 
-I serve as the Tech Lead on a team of three developers (Jay, Tinisha, and myself) and one/two business consultants from the business cohort. My responsibilities include making architectural decisions, setting up the development infrastructure, implementing core features, and ensuring code quality through testing. I also coordinate with teammates on component assignments.
+I serve as the Tech Lead on a team of three developers (Jay Arends, Tinisha Davis, and myself) and one/two business consultants from the business cohort. My responsibilities include making architectural decisions, setting up the development infrastructure, implementing core features, and ensuring code quality through testing. I also coordinate with teammates on component assignments.
 
 ## Work Completed
 
