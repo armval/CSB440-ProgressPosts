@@ -1,6 +1,6 @@
 ## Project Overview
 
-The app that I have been working on is a prototype intended to become/be expanded into an e-commerce web application for North Seattle College, designed to showcase and sell official apparel, accessories, and branded merchandise. The project aims to solve a common problem for college campuses: providing students and staff with a convenient, modern way to browse and purchase school merchandise online, with a streamlined pickup process to be implemented later on (likely by another team).
+The app that I have been helping on is a prototype intended to become/be expanded into an e-commerce web application for North Seattle College, designed to showcase and sell official apparel, accessories, and branded merchandise. The project aims to solve a common problem for college campuses: providing students and staff with a convenient, modern way to browse and purchase school merchandise online, with a streamlined pickup process to be implemented later on (likely by another team).
 
 This is a multi-phase capstone project with the goal of creating a functional prototype that could be handed off to future development teams for production deployment. The current phase focuses on core shopping functionality like browsing products, viewing details, selecting variants, and managing a cart.
 
