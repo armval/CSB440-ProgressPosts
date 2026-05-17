@@ -8,7 +8,7 @@ Here's a brief demo of the current state:
 
 https://github.com/user-attachments/assets/0068e455-36aa-4d71-aede-62e962e503ff
 
-Subsequent work involves incorporating a checkout process (view cart and checkout, likely simulating transactions w/ stripe test mode), and proper profile management (like admins for editing inventory).
+Planned for future development : checkout process (view cart and checkout, likely simulating transactions w/ stripe test mode), and profile management (like an admin page/portal for editing inventory).
 
 ## My Role
 
