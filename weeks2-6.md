@@ -22,15 +22,15 @@ The Supabase database schema was designed with tables for products, product vari
 
 <img width="1049" height="784" alt="db schema" src="https://github.com/user-attachments/assets/1d189213-fc7e-43cf-ac07-a8e65be8d339" />
 
-On the frontend, I helped build the Home page with a responsive product grid using Mantine's SimpleGrid component. Each ProductCard displays the product image, category, name, price, and an "Out of Stock" badge when all variants have zero inventory. The ProductView page was also implemented, which displays full product details including a gallery, variant selectors for size and color, stock indicators, and an Add to Cart button. The page pulls material and care information from the database and shows related products from the same category.
+On the frontend, I helped build the Home page with a responsive product grid using Mantine's SimpleGrid component. Each ProductCard displays the product image, category, name, price, and an "Out of Stock" badge when all variants have zero inventory. The ProductView page was also implemented, which displays full product details including a gallery, variant selectors for size and color, stock indicators, and an Add to Cart button. The page pulls product information from the database and shows related products from the same category.
 
-React Router was set up for client-side navigation between pages. One interesting challenge was ensuring that navigating between products via the "You May Also Like" section properly reset the component state. This was solved using React's key prop pattern, which forces a full remount when the product ID changes. I thought this was a cleaner approach than manually resetting state in useEffect.
+React Router was set up for client-side navigation between pages. One recent challenge was ensuring that navigating between products via the "You May Also Like" section properly reset the component state. This was solved using React's key prop pattern, which forces a full remount when the product ID changes. I thought this was a cleaner approach than manually resetting state in useEffect.
 
 For testing, comprehensive Cypress end-to-end tests were written for both the Home page and ProductView page. The tests cover product display, variant selection, stock indicators, and navigation. Detailed comments were added throughout the test files to help teammates (or future teams) who are new to Cypress understand the syntax and patterns.
 
 ## Challenges and Solutions
 
-One challenge was designing the stock indicator logic. After getting an idea for how real e-commerce sites might handle this, I decided on a tiered approach: the Home page only shows a badge when a product is completely out of stock (all variants at zero), while the ProductView page shows specific warnings like "Only 3 left" for the selected variant. This prevents misleading customers while still creating urgency when appropriate.
+One challenge was designing the stock indicator logic. After getting an idea for how real e-commerce sites might handle this, I decided on a tiered approach: the Home page only shows a badge when a product is completely out of stock (all variants at zero), while the ProductView page shows specific warnings like "Only 3 left" for the selected variant.
 
 Testing also presented hurdles. Cypress runs faster than React renders, which caused flaky tests when checking UI state immediately after interactions. The solution was to wait for specific elements to appear before asserting, and in some cases, to test outcomes (like SKU changes) rather than visual state (like button highlighting).
 
