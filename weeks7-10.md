@@ -61,4 +61,4 @@ Some Cypress tests failed randomly because they ran faster than React could upda
 
 ## Key Learnings
 
-This phase taught me how payment security works in practice: why secret keys stay on the server, how payment intents flow between client and server, and how to handle confirmations.<img width="2852" height="1854" alt="1" src="https://github.com/user-attachments/assets/bd5cc247-a25f-4224-95b2-5fa904d80978" />
+This phase taught me how payment security works in practice: why secret keys stay on the server, how payment intents flow between client and server, and how to handle confirmations.
