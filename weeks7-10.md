@@ -57,7 +57,7 @@ Mantine components need colors defined in JavaScript, while inline styles use CS
 
 **Flaky Tests**
 
-Some Cypress tests failed randomly because they ran faster than React could update the screen. The fix was adding waits for animations to complete before checking results.
+Some of my Cypress tests failed randomly because they ran faster than React could update the screen. The fix was adding waits for animations to complete before checking results.
 
 ## Key Learnings
 
