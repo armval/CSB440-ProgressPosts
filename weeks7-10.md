@@ -2,11 +2,11 @@
 
 Leap is a prototype e-commerce platform designed for colleges and student organizations to sell branded merchandise and generate funding. The intention is for student organizations to potentially take this foundation, swap in their own branding and products, and have a functional online store. The project demonstrates product browsing, variant selection, cart management, secure checkout with Stripe, and order history tracking.
 
-<img width="50%" alt="step-1" src="https://github.com/user-attachments/assets/84923104-d513-456d-9a81-43558caad505" />
-<img width="50%" alt="step-2" src="https://github.com/user-attachments/assets/3b18c5cf-c7e7-441e-939f-1bfcee3183aa" />
-<img width="50%" alt="step-3" src="https://github.com/user-attachments/assets/54e787e4-0095-4ed0-8cd2-987ce6986c75" />
-<img width="50%" alt="step-4" src="https://github.com/user-attachments/assets/1591b580-4f31-4f30-b87d-039c290e66f6" />
-<img width="50%" alt="step-5" src="https://github.com/user-attachments/assets/0b1c5fd5-0e50-49d4-b31f-e28a74a18ca2" />
+<img width="40%" alt="step-1" src="https://github.com/user-attachments/assets/84923104-d513-456d-9a81-43558caad505" />
+<img width="40%" alt="step-2" src="https://github.com/user-attachments/assets/3b18c5cf-c7e7-441e-939f-1bfcee3183aa" />
+<img width="40%" alt="step-3" src="https://github.com/user-attachments/assets/54e787e4-0095-4ed0-8cd2-987ce6986c75" />
+<img width="40%" alt="step-4" src="https://github.com/user-attachments/assets/1591b580-4f31-4f30-b87d-039c290e66f6" />
+<img width="40%" alt="step-5" src="https://github.com/user-attachments/assets/0b1c5fd5-0e50-49d4-b31f-e28a74a18ca2" />
 
 ## My Role
 
@@ -40,10 +40,10 @@ The Cypress test suite was expanded to 42 end-to-end tests covering Home, Produc
 
 A mock Admin dashboard was added with tabs for Overview, Products, Users, and Settings. The Products tab displays real product data with simulated edit and delete actions that only affect what's shown on screen. This showcases what an administrative interface could look like without risking actual data changes.
 
-<img width="50%" alt="admin-1" src="https://github.com/user-attachments/assets/cd06b9d8-adea-49bf-8e5c-bea9d01e9d94" />
-<img width="50%" alt="admin-2" src="https://github.com/user-attachments/assets/148f58f5-dda3-4472-aaac-741733e6feb6" />
-<img width="50%" alt="admin-3" src="https://github.com/user-attachments/assets/8a89aff1-40d7-4644-9df6-19372730944f" />
-<img width="50%" alt="admin-4" src="https://github.com/user-attachments/assets/43312244-3254-4120-bb98-2b7151b4acff" />
+<img width="40%" alt="admin-1" src="https://github.com/user-attachments/assets/cd06b9d8-adea-49bf-8e5c-bea9d01e9d94" />
+<img width="40%" alt="admin-2" src="https://github.com/user-attachments/assets/148f58f5-dda3-4472-aaac-741733e6feb6" />
+<img width="40%" alt="admin-3" src="https://github.com/user-attachments/assets/8a89aff1-40d7-4644-9df6-19372730944f" />
+<img width="40%" alt="admin-4" src="https://github.com/user-attachments/assets/43312244-3254-4120-bb98-2b7151b4acff" />
 
 ## Challenges and Solutions
 
