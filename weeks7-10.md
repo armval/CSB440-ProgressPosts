@@ -10,7 +10,7 @@ Leap is a prototype e-commerce platform designed for colleges and student organi
 
 ## My Role
 
-I serve as the Tech Lead on a team of three developers (Jay Arends, Tinisha Davis, and myself) and two business consultants (London Marroquin and Phay) from the business cohort. My responsibilities include making architectural decisions, implementing core features, and ensuring code quality through testing.
+I serve as the Tech Lead on a team of three developers (Jay Arends, Tinisha Davis, and myself) and two business consultants (London Marroquin and Phay) from the business cohort. My responsibilities include making architectural decisions, helping implement core features, and ensuring code quality through testing.
 
 ## Work Completed
 
