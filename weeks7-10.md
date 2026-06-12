@@ -26,7 +26,7 @@ An OrderConfirmation page displays a success message with order details. The Ord
 
 **Cart Functionality**
 
-The CartSidebar was enhanced with quantity controls for adjusting or removing items. A cart indicator badge was added to the Navbar showing item count, updating in real-time. The CartCard component displays product name, unit price, line total (when quantity exceeds one), and variant details.
+The CartSidebar was updated with quantity controls for adjusting or removing items. A cart indicator badge was added to the Navbar showing item count, updating in real-time. The CartCard component displays product name, unit price, line total (when quantity exceeds one), and variant details.
 
 **UI Theming**
 
@@ -38,7 +38,7 @@ The Cypress test suite was expanded to 42 end-to-end tests covering Home, Produc
 
 **Admin Page**
 
-A mock Admin dashboard was added with tabs for Overview, Products, Users, and Settings. The Products tab displays real product data with simulated edit and delete actions that only affect what's shown on screen. This showcases what an administrative interface could look like without risking actual data changes. Full implementation became a stretch goal due to time constraints, so a mock version was put in place to account for this.
+The team also added a mock Admin dashboard with tabs for Overview, Products, Users, and Settings. The Products tab displays real product data with simulated edit and delete actions that only affect what's shown on screen. This showcases what an administrative interface could look like without risking actual data changes. Full implementation became a stretch goal due to time constraints, so a mock version was put in place to account for this.
 
 <img width="40%" alt="admin-1" src="https://github.com/user-attachments/assets/cd06b9d8-adea-49bf-8e5c-bea9d01e9d94" />
 <img width="40%" alt="admin-2" src="https://github.com/user-attachments/assets/148f58f5-dda3-4472-aaac-741733e6feb6" />
