@@ -24,9 +24,9 @@ Stripe was integrated for secure payment processing using test mode. A Supabase 
 
 An OrderConfirmation page displays a success message with order details. The OrderHistory page shows all past orders with product images, variant details, quantities, prices, status badges, and timestamps.
 
-**Cart Functionality**
+**Cart Updates**
 
-The CartSidebar was updated with quantity controls for adjusting or removing items. A cart indicator badge was added to the Navbar showing item count, updating in real-time. The CartCard component displays product name, unit price, line total (when quantity exceeds one), and variant details.
+The CartSidebar was updated with quantity controls for adjusting or removing items. A cart indicator badge was added to the Navbar showing item count, updating in real-time. The CartCard component receives product details from our database, and also displays line total (when quantity exceeds one).
 
 **UI Theming**
 
